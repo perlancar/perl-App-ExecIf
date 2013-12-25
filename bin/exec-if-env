@@ -73,6 +73,17 @@ the rest are true).
 Otherwise exit code from command is returned.
 
 
+=head1 FAQ
+
+=head2 Couldn't the same thing be accomplished with shell?
+
+Yes, you can also do something like this in bash:
+
+ if [[ "$SOMEENV" == 1 ]]; then somecmd --cmdopt ...; fi
+
+But using this utility is simpler and more portable.
+
+
 =head1 TODO
 
 
