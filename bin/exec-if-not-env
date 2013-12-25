@@ -61,6 +61,8 @@ are false).
 
 =head1 OPTIONS
 
+=over
+
 =item * --help, -h
 
 =back
