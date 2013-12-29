@@ -88,6 +88,17 @@ But using this utility is simpler and more portable.
 
 =head1 TODO
 
+=over
+
+=item * Specify multiple envs with boolean logic
+
+Example:
+
+ ENV1|ENV2|ENV3
+ ENV1 & (ENV2 | ENV3) & !ENV4
+
+=back
+
 
 =head1 SEE ALSO
 
