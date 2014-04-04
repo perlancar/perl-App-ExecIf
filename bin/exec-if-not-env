@@ -15,8 +15,8 @@ sub parse_cmdline {
     #Getopt::Long::Configure("nopass_through");
     my $usage = <<USAGE;
 Usage:
-  $0 [ENV] [command] [command options ...]
-  $0 --help
+  exec-if-not-env [ENV] [command] [command options ...]
+  exec-if-not-env --help
 For more details, see the manpage/documentation.
 USAGE
 
