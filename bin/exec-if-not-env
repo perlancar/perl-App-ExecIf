@@ -43,7 +43,7 @@ exec @Cmd unless $ENV{$Env};
 
 1;
 # ABSTRACT: Execute command if certain environment variable is false
-# PODNAME: exec-if-not-env
+# PODNAME:
 
 =head1 SYNOPSIS
 
