@@ -1,3 +1,4 @@
 App-ExecIf-*
 .build
 *~
+nytprof*
