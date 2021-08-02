@@ -2,3 +2,4 @@ App-ExecIf-*
 .build
 *~
 nytprof*
+.DS_Store
